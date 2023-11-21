@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839249972982",
+    "project_id": "brew-crew-e91e2",
+    "storage_bucket": "brew-crew-e91e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839249972982:android:c593dfe90cd1e644dc26d7",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVH1UB7sxSljwgvP1NcRn-6b3HShvAknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
